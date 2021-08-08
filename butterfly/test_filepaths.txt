@@ -1,0 +1,10 @@
+butterfly.test.tfrecord-00000-of-00010
+butterfly.test.tfrecord-00001-of-00010
+butterfly.test.tfrecord-00002-of-00010
+butterfly.test.tfrecord-00003-of-00010
+butterfly.test.tfrecord-00004-of-00010
+butterfly.test.tfrecord-00005-of-00010
+butterfly.test.tfrecord-00006-of-00010
+butterfly.test.tfrecord-00007-of-00010
+butterfly.test.tfrecord-00008-of-00010
+butterfly.test.tfrecord-00009-of-00010
